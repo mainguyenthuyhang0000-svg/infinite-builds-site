@@ -25,8 +25,8 @@
 /pages/contact  /contact  301
 
 # Chính sách
-/policies/refund-policy  /policies/refund-policy  301
-/policies/shipping-policy  /policies/shipping-policy  301
+/policies/refund-policy  /policies/shipping-and-refund-policy  301
+/policies/shipping-policy  /policies/shipping-and-refund-policy  301
 /policies/privacy-policy  /policies/privacy-policy  301
 /policies/terms-of-service  /policies/terms-of-service  301
 
